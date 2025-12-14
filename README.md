@@ -1,17 +1,23 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**leoyjTu/leoyjTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yanjie Tu**, a Ph.D. candidate at **Northwestern Polytechnical University (NPU)**.  
+My research focuses on **Image Restoration**, with particular interests in **All-in-One models** and **generalizable restoration frameworks**.
 
-Here are some ideas to get you started:
+I actively use GitHub to manage research code, experiments, and technical notes, and to support reproducible research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Yanjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoyjTu&show_icons=true&theme=tokyonight)
+
+
+### Research Interests
+
+- Image Restoration (Denoising, Deblurring, Deraining, Dehazing, etc.)
+- All-in-One / Unified Restoration Models
+- Generalization and Robustness in Vision Models
+
+
+### Get in Touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-leoyjTu-181717?logo=github&logoColor=white)](https://github.com/leoyjTu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4vtRInUAAAAJ&hl=en)
+[![CSDN](https://img.shields.io/badge/Blog-CSDN-555555?logo=rss&logoColor=white)](https://blog.csdn.net/leonardotu)
+
