@@ -17,8 +17,6 @@ I actively use GitHub to manage research code, experiments, and technical notes,
 
 ### 📧 Get in Touch
 
-<p align="left">
-  <a href="https://github.com/leoyjTu"><img src="https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://scholar.google.com/citations?user=4vtRInUAAAAJ&hl=en"><img src="https://img.shields.io/badge/-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://blog.csdn.net/leonardotu"><img src="https://img.shields.io/badge/-%23FC5531.svg?style=for-the-badge&logo=rss&logoColor=white" alt="CSDN"></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-leoyjTu-181717?style=flat&logo=github&logoColor=white)](https://github.com/leoyjTu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yanjie%20Tu-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4vtRInUAAAAJ&hl=en)
+[![CSDN](https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat&logo=rss&logoColor=white)](https://blog.csdn.net/leonardotu)
