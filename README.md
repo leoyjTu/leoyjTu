@@ -3,7 +3,6 @@
 I am **Yanjie Tu**, a Ph.D. student at **Northwestern Polytechnical University (NPU)**.
 My research focuses on **Low-Level Vision** and **Image Restoration**, specifically exploring All-in-One models and generalizable frameworks to solve diverse image degradation problems.
 
-I actively use GitHub to manage research code, experiments, and technical notes, and to support reproducible research.
 
 ![Yanjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoyjTu&show_icons=true&theme=tokyonight)
 
